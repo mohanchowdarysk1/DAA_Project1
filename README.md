@@ -25,7 +25,7 @@ cd DAA_Project1
 
 Step 4 :
 Run the benchmarking script:
-python benchmark.py
+python code.py
 This script will generate plots showing the runtime performance of Insertion sort, Selection sort, and Bubble sort for various input sizes.
 
 Results :
